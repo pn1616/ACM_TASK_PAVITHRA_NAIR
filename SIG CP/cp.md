@@ -1,4 +1,4 @@
-I attempted the hackerrank problems over more than a week. As a beginner in programming, the first 2-3 problems was a little easy for me. The last few ones took me a few days to understand and come up with a logic. But I did try my best with alot of help of google (obviously). Solving this contest and the code area task, I learned quite a lot  
+I attempted the hackerrank problems over more than a week. As a beginner in programming, the first 2-3 problems was a little easy for me. The last few ones took me a few days to understand and come up with a logic. But I did try my best with alot of help of google (obviously). Solving this contest and the code area task, I learnt quite a lot  
 
 - hacckerrank id: pavithranair1616
 
