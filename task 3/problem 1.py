@@ -11,4 +11,4 @@ def oddsum():
 
 result = oddsum()
 print(result)
-#wrote all the code for code area in hackerrank itself 
+#wrote all the code for code area task in hackerrank itself except this one
