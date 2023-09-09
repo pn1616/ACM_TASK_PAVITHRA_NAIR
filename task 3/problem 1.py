@@ -11,3 +11,4 @@ def oddsum():
 
 result = oddsum()
 print(result)
+#wrote all the code for code area in hackerrank itself 
