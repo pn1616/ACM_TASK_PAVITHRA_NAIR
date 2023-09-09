@@ -1,2 +1,2 @@
-![vsc](https://github.com/pn1616/ACM_TASK_PAVITHRA_NAIR/assets/143744137/7f175e4f-b1e9-4b89-a8ca-b87ae7de977d)
-
+# set up vs code
+![image](https://github.com/pn1616/ACM_TASK_PAVITHRA_NAIR/assets/143744137/6e1a496e-a415-4702-8510-274c32f99494)
