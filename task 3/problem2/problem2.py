@@ -1,17 +1,12 @@
-def simplearraysum(ar):
-    return sum(ar)
-
 n = int(input())
-ar = list(map(int, input().split()))
+arr = list(map(int, input().split()))
+sum = 0
 
-if n < 0 or n > 1000:
-    print("Invalid array size.")
-    exit()
+if n>1000:
+    print("error")
 
-for i in ar:
-    if i < 0 or i > 1000:
-        print("Elements should be between 0 and 1000.")
-        exit()
-
-result = simplearraysum(ar)
-print(result)
+for i in arr:
+    if 1 <= n <= 1000:
+        sum +=i
+        
+print(sum)                
